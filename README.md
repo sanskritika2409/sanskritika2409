@@ -79,13 +79,16 @@
 ---
 
 
-
 ## 📊 GitHub Stats
 
-![Sanskritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskritika2409&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanskritika2409&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanskritika2409&theme=tokyonight" height="160"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanskritika2409&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanskritika2409&theme=tokyonight" width="100%"/>
+</p>
 ---
 
 ## 🌱 Currently Learning
