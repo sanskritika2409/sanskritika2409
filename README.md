@@ -78,16 +78,13 @@
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskritika2409&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskritika2409&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+![Sanskritika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanskritika2409&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskritika2409&theme=default&hide_border=true" height="150"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=sanskritika2409&theme=tokyonight&hide_border=true)
 
 ---
 
