@@ -52,11 +52,42 @@ flowchart LR
 
 </details>
 
----
+### 🧭 Choose your path
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**👔 Recruiter / hiring manager**
+
+Start with the results strip above, then read [Experience](#-experience) and the **AML engine** below. Everything is backed by a repo.
+
+</td>
+<td width="33%" valign="top">
+
+**🧑‍💻 Engineer**
+
+Open the [AML engine](https://github.com/sanskritika2409/Aml-Smurfing-Detection-Graph-Engine) or [Schedulon](https://github.com/sanskritika2409/AI_Timetable) for architecture, APIs and Docker/K8s setup.
+
+</td>
+<td width="33%" valign="top">
+
+**📊 Analytics lead**
+
+Jump to the [Retail Forecasting](https://github.com/sanskritika2409/Retail-Sales-Forecasting-Inventory-Optimization) and [Churn](https://github.com/sanskritika2409/customer-churn-prediction) projects for dashboards and business framing.
+
+</td>
+</tr>
+</table>
+
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="./assets/stack.svg" width="100%" alt="Tech stack ticker"/>
 
 | | |
 |:--|:--|
@@ -69,7 +100,7 @@ flowchart LR
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -180,7 +211,50 @@ Curated LeetCode solutions organised by topic and difficulty, each with approach
 
 </details>
 
----
+<details>
+<summary><b>🔬 Project spotlight: how the AML engine works</b></summary>
+<br/>
+
+```mermaid
+flowchart LR
+  T["💸 Transactions<br/>10,000+ accounts"] --> G["🕸️ Build network graph<br/>NetworkX + SQL"]
+  G --> F["🧮 25+ features<br/>PageRank · betweenness"]
+  F --> M["🤖 Isolation Forest<br/>+ Deep Autoencoder"]
+  M --> R["🚨 Risk score<br/>FastAPI"]
+  R --> D["🖥️ Streamlit dashboard<br/>for investigators"]
+  classDef s fill:#0b1226,stroke:#f43f5e,color:#e2e8f0,stroke-width:1.5px;
+  class T,G,F,M,R,D s;
+```
+
+Smurfing splits large sums into many small transfers to avoid detection. The model learns what normal network behaviour looks like and flags accounts whose structure doesn't fit: **95% recall, ~40% less manual investigation time.** [Explore the repo →](https://github.com/sanskritika2409/Aml-Smurfing-Detection-Graph-Engine)
+
+</details>
+
+### 🧬 What my repos are made of
+
+```mermaid
+pie showData
+  title Approximate repo mix
+  "Data Science & ML" : 22
+  "Full-stack web" : 7
+  "Hardware & IoT" : 10
+  "Core CS (Java, DSA)" : 4
+```
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🗺️ Quest Log
+
+| When | Level unlocked |
+|:--|:--|
+| **2023** | 🎓 Started B.Tech CSE (Data Science & AI) at SRMU |
+| **Jun–Aug 2025** | 🏥 Django training and **Medi-Locator** shipped live in 10 weeks |
+| **2025** | 🇮🇳 **Smart India Hackathon**: Schedulon deployed on Kubernetes |
+| **2025–26** | 🤖 Google Generative AI and AI Agent Intensive; Microsoft data certifications |
+| **2026** | 📊 Data Analytics training; AML engine and Customer Digital Twin built |
+| **Next** | 🚀 *Your team, your data, your problem?* [Say hello](mailto:awasthisanskritika@gmail.com) |
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 💼 Experience
 
@@ -191,7 +265,7 @@ Curated LeetCode solutions organised by topic and difficulty, each with approach
 
 **What I do day to day:** gather stakeholder requirements, extract and validate data with SQL and Python, build standardised Power BI / Excel dashboards, and deliver ad-hoc analyses that support leadership decisions.
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🏅 Certifications
 
@@ -204,9 +278,17 @@ Curated LeetCode solutions organised by topic and difficulty, each with approach
 | **Job Simulations** | AWS · JPMorgan Quantitative Research · Deloitte Data |
 | **SQL** | Basic · Intermediate · Advanced |
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<details>
+<summary>🥚 <i>Easter egg</i></summary>
+<br/>
+
+Why did the data scientist get kicked out of the forest? **Too many random trees, and she wouldn't stop splitting them.** 🌲
+
+</details>
 
 <div align="center">
 
@@ -218,4 +300,3 @@ Curated LeetCode solutions organised by topic and difficulty, each with approach
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee)](https://www.linkedin.com/in/sanskritika-awasthi-9400592a6)
 
 </div>
-
