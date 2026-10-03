@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:awasthisanskritika@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskritika-awasthi-9400592a6)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanskritika2409)
-![Views](https://komarev.com/ghpvc/?username=sanskritika2409&label=Visitors&color=1d4ed8&style=for-the-badge)
+![Open to work](https://img.shields.io/badge/Open_to-Data_·_ML_·_SWE_roles-22d3ee?style=for-the-badge&labelColor=0f172a)
 
 > 🕵️ **Psst, look at the banner.** The pulsing **red nodes** are a money-laundering ring hiding in a transaction network.
 > Finding rings like that is exactly what my [AML engine](https://github.com/sanskritika2409/Aml-Smurfing-Detection-Graph-Engine) does.
